@@ -18,7 +18,3 @@ We collaborate on academic software projects and supporting modules—currently 
 - **[EmailNotifier](https://github.com/pp2-ungs/EmailNotifier)** — Dynamic Email notifier for TASkOcupado. Designed for automated discovery and loading, it implements the Observer pattern to deliver task assignment alerts via SMTP.
 - **[TelegramNotifier](https://github.com/pp2-ungs/TelegramNotifier)** — Dynamic Telegram notifier for TASkOcupado. Designed for automated discovery and loading, it observes task assignments to deliver instant notifications via Telegram.
 - **[AssignmentLogger](https://github.com/pp2-ungs/AssignmentLogger)** — External logging service for TASkOcupado. Implements a direct Observer subscription to track and persist all task assignment history.
-
----
-
-> This README is displayed on the organization profile (stored in `.github/profile/README.md`).
